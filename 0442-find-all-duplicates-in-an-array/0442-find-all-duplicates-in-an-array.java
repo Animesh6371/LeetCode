@@ -9,7 +9,9 @@ class Solution
             int correct = nums[i]-1;
             if(nums[i] != nums[correct])
             {
-                swap(nums,i,correct);
+                int temp = nums[i];
+                nums[i] = nums[correct];
+                nums[correct] = temp;
             }
             else
             {
@@ -27,10 +29,4 @@ class Solution
         
         return ans;
     }
-    public static void swap(int nums[],int i,int correct)
-    {
-        int temp = nums[i];
-        nums[i] = nums[correct];
-        nums[correct] = temp;
-    }    
 }
