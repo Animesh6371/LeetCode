@@ -22,6 +22,7 @@ class Solution {
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Animesh6371/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ class Solution {
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Animesh6371/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Animesh6371/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
