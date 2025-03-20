@@ -34,6 +34,7 @@ class Solution {
 | [0792-binary-search](https://github.com/Animesh6371/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Animesh6371/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Animesh6371/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +90,5 @@ class Solution {
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Animesh6371/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
