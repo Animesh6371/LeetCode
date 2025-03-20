@@ -33,6 +33,7 @@ class Solution {
 | [0645-set-mismatch](https://github.com/Animesh6371/LeetCode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Animesh6371/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Animesh6371/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +85,8 @@ class Solution {
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
