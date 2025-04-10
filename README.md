@@ -23,6 +23,7 @@ class Solution {
 | [0033-search-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
+| [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Animesh6371/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@ class Solution {
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Animesh6371/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -115,5 +117,6 @@ class Solution {
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
