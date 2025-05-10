@@ -98,6 +98,7 @@ class Solution {
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Animesh6371/LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -119,4 +120,8 @@ class Solution {
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Animesh6371/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
