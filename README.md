@@ -81,12 +81,14 @@ class Solution {
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Animesh6371/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Animesh6371/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Animesh6371/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Animesh6371/LeetCode/tree/master/0645-set-mismatch) |
@@ -129,6 +131,7 @@ class Solution {
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Animesh6371/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
