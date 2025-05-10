@@ -58,6 +58,7 @@ class Solution {
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Animesh6371/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +82,7 @@ class Solution {
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Animesh6371/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
@@ -124,4 +126,12 @@ class Solution {
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Animesh6371/LeetCode/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
