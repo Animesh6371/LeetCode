@@ -23,6 +23,7 @@ class Solution {
 | [0033-search-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Animesh6371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/Animesh6371/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ class Solution {
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Animesh6371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Animesh6371/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -146,5 +148,6 @@ class Solution {
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Animesh6371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
