@@ -27,6 +27,7 @@ class Solution {
 | [0136-single-number](https://github.com/Animesh6371/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Animesh6371/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Animesh6371/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Animesh6371/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -73,6 +74,7 @@ class Solution {
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Animesh6371/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Animesh6371/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +99,7 @@ class Solution {
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Animesh6371/LeetCode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Animesh6371/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -116,6 +119,7 @@ class Solution {
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Animesh6371/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting Sort
 |  |
@@ -139,4 +143,8 @@ class Solution {
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
