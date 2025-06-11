@@ -89,6 +89,7 @@ class Solution {
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Animesh6371/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Animesh6371/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
