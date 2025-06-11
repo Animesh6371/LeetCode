@@ -78,6 +78,7 @@ class Solution {
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Animesh6371/LeetCode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Animesh6371/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Animesh6371/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -110,6 +111,7 @@ class Solution {
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Animesh6371/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Animesh6371/LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
@@ -153,4 +155,8 @@ class Solution {
 | [0004-median-of-two-sorted-arrays](https://github.com/Animesh6371/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Animesh6371/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Animesh6371/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Animesh6371/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
