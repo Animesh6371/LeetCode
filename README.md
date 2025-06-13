@@ -112,6 +112,7 @@ class Solution {
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh6371/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Animesh6371/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Animesh6371/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Animesh6371/LeetCode/tree/master/0344-reverse-string) |
@@ -159,5 +160,6 @@ class Solution {
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Animesh6371/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Animesh6371/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
