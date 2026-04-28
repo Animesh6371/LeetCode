@@ -40,6 +40,7 @@ class Solution {
 | [0792-binary-search](https://github.com/Animesh6371/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Animesh6371/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Animesh6371/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Animesh6371/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Animesh6371/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Animesh6371/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -100,6 +101,7 @@ class Solution {
 | [0231-power-of-two](https://github.com/Animesh6371/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Animesh6371/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Animesh6371/LeetCode/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Animesh6371/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Animesh6371/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
