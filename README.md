@@ -45,6 +45,7 @@ class Solution {
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Animesh6371/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Animesh6371/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Animesh6371/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1920-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Animesh6371/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -126,6 +127,7 @@ class Solution {
 | [0059-spiral-matrix-ii](https://github.com/Animesh6371/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Animesh6371/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Animesh6371/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Animesh6371/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Counting
