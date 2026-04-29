@@ -41,6 +41,7 @@ class Solution {
 | [0882-peak-index-in-a-mountain-array](https://github.com/Animesh6371/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Animesh6371/LeetCode/tree/master/0898-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Animesh6371/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Animesh6371/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Animesh6371/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Animesh6371/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Animesh6371/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
